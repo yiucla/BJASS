@@ -23,10 +23,3 @@ Main function: KSV(X,Y,delta,beta_ini,d); BJASS(X,Y,delta,beta_ini,d,S,beta_S);
 
 Output: Active index set and parameter estimates of active variables.
 
-
-
- 
-Yi Liu
-College of Science, China University of Petroleum (East China), Qingdao, 266580, China 
-Email:liuyi@amss.ac.cn
-
