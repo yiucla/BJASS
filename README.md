@@ -10,7 +10,7 @@ Description:
 This program implements the BJASS joint screening method for DLBCL data (stored in matlab.mat) described in Section 4 of the paper.
 
 
-Usage: Unzip the files, Run the MAIN.m function. 
+Usage: Run the MAIN.m function. 
 Main function: KSV(X,Y,delta,beta_ini,d); BJASS(X,Y,delta,beta_ini,d,S,beta_S);
 
     X: Design matrix
