@@ -15,7 +15,7 @@ tY = delta./SC;
 y = tY.*Y;
 y_c = y - mean(y);
 %% glmnet
-addpath(genpath(''));  % glmnet文件夹所在的路径
+addpath(genpath(''));  % glmnet path
 fit = glmnet(X, y_c);
 cvfit = cvglmnet(X, y_c);
 lambda = cvfit.lambda_min;
