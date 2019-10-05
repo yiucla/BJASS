@@ -1,8 +1,6 @@
 # BJASS
 
-A New Joint Screening Method for Right-Censored Survival Data with Ultrahigh Dimensional Covariates
- 
-Yi Liu, Xiaolin Chen, and Gang Li
+Liu, Y., Chen, X., & Li, G. (2019). A new joint screening method for right-censored time-to-event data with ultra-high dimensional covariates. Statistical methods in medical research, 0962280219864710.
 
 
 Description: 
